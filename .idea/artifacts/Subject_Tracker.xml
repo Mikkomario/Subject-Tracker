@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Subject-Tracker">
+    <output-path>$PROJECT_DIR$/out/artifacts/Subject_Tracker</output-path>
+    <root id="archive" name="Subject-Tracker.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Subject-Tracker" />
+      <element id="module-output" name="Firmament" />
+      <element id="module-output" name="Flow" />
+      <element id="module-output" name="Genesis" />
+      <element id="module-output" name="Inception" />
+      <element id="module-output" name="Paradigm" />
+      <element id="module-output" name="Reach" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.13.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
